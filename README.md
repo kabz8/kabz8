@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/__kabz" target="blank"><img src="https://img.shields.io/twitter/follow/__kabz?logo=twitter&style=for-the-badge" alt="__kabz" /></a> </p>
 
-- 🔭 I’m currently enrolled **software Engineering Programme at ALX**
+- 🔭 I’m currently enrolled to **software Engineering Programme at ALX**
 
 - 🌱 I’m currently learning **C , Python , Data structure and Algorithm**
 
