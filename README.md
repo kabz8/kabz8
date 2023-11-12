@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **software Development**
 
-- 🌱 I’m currently learning **C , Data structure and Algorithm**
+- 🌱 I’m currently learning **C , Python , Data structure and Algorithm**
 
 - 💬 Ask me about **Vue & php**
 
